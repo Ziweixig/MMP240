@@ -1,0 +1,9 @@
+
+body{ background-image: url("chuttersnap-790812-unsplash.jpg");
+	background: url(chuttersnap-790812-unsplash.jpg) no-repeat center center fixed;
+	background-size: cover;
+ }
+ h1{color:white; 
+ 	font-family: "Arial Black", Gadget, sans-serif; text-align: center;}
+ p{color:white; 
+ 	font-family: "Lucida Console", Monaco, monospace; text-align: center;}
